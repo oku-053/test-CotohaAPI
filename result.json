@@ -1,0 +1,320 @@
+[
+    {
+        "begin_pos": 105,
+        "end_pos": 110,
+        "form": "写ルンです",
+        "std_form": "写ルンです",
+        "class": "固有物名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 116,
+        "end_pos": 119,
+        "form": "チェキ",
+        "std_form": "チェキ",
+        "class": "固有物名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 240,
+        "end_pos": 244,
+        "form": "10年前",
+        "std_form": "10年前",
+        "class": "日付表現",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 269,
+        "end_pos": 274,
+        "form": "2000円",
+        "std_form": "2000円",
+        "class": "金額表現",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 275,
+        "end_pos": 277,
+        "form": "3倍",
+        "std_form": "3倍",
+        "class": "割合表現",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 299,
+        "end_pos": 303,
+        "form": "千数百円",
+        "std_form": "千数百円",
+        "class": "金額表現",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 513,
+        "end_pos": 520,
+        "form": "インスタグラム",
+        "std_form": "インスタグラム",
+        "class": "固有物名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 652,
+        "end_pos": 659,
+        "form": "今年1月14日",
+        "std_form": "今年1月14日",
+        "class": "日付表現",
+        "extended_class": "",
+        "info": {
+            "normalized_datetime": "2022-01-14"
+        },
+        "source": "basic"
+    },
+    {
+        "begin_pos": 662,
+        "end_pos": 672,
+        "form": "ニューヨークタイムズ",
+        "std_form": "ニューヨークタイムズ",
+        "class": "組織名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 696,
+        "end_pos": 700,
+        "form": "ebay",
+        "std_form": "ebay",
+        "class": "組織名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 703,
+        "end_pos": 707,
+        "form": "キヤノン",
+        "std_form": "キヤノン",
+        "class": "組織名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 708,
+        "end_pos": 714,
+        "form": "ペンタックス",
+        "std_form": "ペンタックス",
+        "class": "組織名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 715,
+        "end_pos": 718,
+        "form": "ニコン",
+        "std_form": "ニコン",
+        "class": "組織名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 719,
+        "end_pos": 722,
+        "form": "ライカ",
+        "std_form": "ライカ",
+        "class": "固有物名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 743,
+        "end_pos": 749,
+        "form": "42〜79%",
+        "std_form": "42〜79%",
+        "class": "割合表現",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 871,
+        "end_pos": 873,
+        "form": "稲田",
+        "std_form": "稲田",
+        "class": "人名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 1034,
+        "end_pos": 1038,
+        "form": "コダック",
+        "std_form": "コダック",
+        "class": "組織名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 1186,
+        "end_pos": 1192,
+        "form": "カメラファン",
+        "std_form": "カメラファン",
+        "class": "人名",
+        "extended_class": "",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 1,
+        "end_pos": 4,
+        "form": "sns",
+        "std_form": "sns",
+        "class": "固有物名",
+        "extended_class": "製品名_その他",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 13,
+        "end_pos": 22,
+        "form": "デジタルネイティブ",
+        "std_form": "デジタルネイティブ",
+        "class": "固有物名",
+        "extended_class": "主義方式名_その他",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 73,
+        "end_pos": 79,
+        "form": "6、7年ほど",
+        "std_form": "6、7年ほど",
+        "class": "時刻表現",
+        "extended_class": "期間",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 176,
+        "end_pos": 178,
+        "form": "半数",
+        "std_form": "半数",
+        "class": "割合表現",
+        "extended_class": "割合表現",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 181,
+        "end_pos": 183,
+        "form": "学生",
+        "std_form": "学生",
+        "class": "固有物名",
+        "extended_class": "地位職業名",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 218,
+        "end_pos": 221,
+        "form": "36枚",
+        "std_form": "36枚",
+        "class": "数値表現",
+        "extended_class": "個数",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 224,
+        "end_pos": 233,
+        "form": "カラーネガフィルム",
+        "std_form": "カラーネガフィルム",
+        "class": "場所",
+        "extended_class": "地名",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 250,
+        "end_pos": 252,
+        "form": "1本",
+        "std_form": "1本",
+        "class": "数値表現",
+        "extended_class": "製品数",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 255,
+        "end_pos": 261,
+        "form": "700円前後",
+        "std_form": "700円前後",
+        "class": "固有物名",
+        "extended_class": "貨幣名",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 314,
+        "end_pos": 317,
+        "form": "コスパ",
+        "std_form": "コスパ",
+        "class": "組織名",
+        "extended_class": "企業名",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 413,
+        "end_pos": 416,
+        "form": "ことだ",
+        "std_form": "ことだ",
+        "class": "場所",
+        "extended_class": "地名",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 734,
+        "end_pos": 738,
+        "form": "コロナ禍",
+        "std_form": "コロナ禍",
+        "class": "固有物名",
+        "extended_class": "製品名",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 739,
+        "end_pos": 742,
+        "form": "2年間",
+        "std_form": "2年間",
+        "class": "時刻表現",
+        "extended_class": "年数期間",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 764,
+        "end_pos": 767,
+        "form": "副社長",
+        "std_form": "副社長",
+        "class": "固有物名",
+        "extended_class": "地位職業名",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 780,
+        "end_pos": 785,
+        "form": "スニーカー",
+        "std_form": "スニーカー",
+        "class": "固有物名",
+        "extended_class": "衣類名",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 873,
+        "end_pos": 874,
+        "form": "氏",
+        "std_form": "氏",
+        "class": "固有物名",
+        "extended_class": "称号名_その他",
+        "source": "basic"
+    },
+    {
+        "begin_pos": 875,
+        "end_pos": 878,
+        "form": "村上氏",
+        "std_form": "村上氏",
+        "class": "組織名",
+        "extended_class": "家系名",
+        "source": "basic"
+    }
+]

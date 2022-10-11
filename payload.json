@@ -1,0 +1,6 @@
+{
+    "AccessTokenPublishURL" : "https://api.ce-cotoha.com/v1/oauth/accesstokens" , 
+    "APIBaseURL" : "https://api.ce-cotoha.com/api/dev/" ,            
+    "ClientId" : "mH2czPw40Mf6naKCqHNg3Ys0YOgXrbqo" ,              
+    "ClientSecret" : "e8ldRIoHQN5TwYhQ"           
+}
